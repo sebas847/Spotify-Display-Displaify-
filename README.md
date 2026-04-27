@@ -1,14 +1,14 @@
-# 🎵 Displaify - Spotify Desktop Controller
+#  Displaify - Spotify Desktop Controller
 
 A custom IoT desktop device powered by an ESP32-C3 to control and display Spotify metadata. This project features a 1.8" TFT screen and 6 mechanical switches for tactile control, housed in a custom-designed 3D printed enclosure.
 
-## ✨ Features
+##  Features
 - **Real-time Display:** Shows song title and artist.
 - **6 Tactile Controls:** Play/Pause, Next Track, Previous Track, Volume Up, Volume Down, and Mute (Unlike the standard 3-button design).
 - **Custom Enclosure:** Ergonomic design for desk use with an updated layout for 6 switches.
 - **IoT Connection:** Connects via WiFi to the Spotify API.
 
-## 🛠️ Components & Bill of Materials (BOM)
+##  Components & Bill of Materials (BOM)
 | Component | Purpose | Link |
 | --- | --- | --- |
 | ESP32-C3 SuperMini | Brain, WiFi & connectivity | [Aliexpress](https://es.aliexpress.com/item/1005007446721319.html) |
@@ -16,7 +16,7 @@ A custom IoT desktop device powered by an ESP32-C3 to control and display Spotif
 | Outemu Mechanical Switches | 6 Tactile input controls | [Aliexpress](https://es.aliexpress.com/item/1005006396423418.html) |
 | 24 AWG Silicone Wire | Internal connections | [Aliexpress](https://es.aliexpress.com/item/1005009017260144.html) |
 
-## 🔌 Wiring Diagram & Pinout
+##  Wiring Diagram & Pinout
 The following pin configuration will be used for the final assembly.
 
 ### Screen (ST7735 SPI)
