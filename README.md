@@ -34,6 +34,6 @@ The following pin configuration will be used for the final assembly.
 *(One pin of each switch to the listed GPIO, and the other pin common to GND)*
 
 ##  Project Files
-- `/cad`: Includes `.step` and `.f3z` files for the 6-button enclosure.
-- `/firmware`: Project source code (work in progress).
+- `/cad`: Includes `.step` file for the 6-button enclosure.
+- `/firmware`: Project source code 
 - `bom.csv`: Detailed parts list.
