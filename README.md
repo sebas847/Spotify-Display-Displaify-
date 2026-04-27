@@ -37,7 +37,7 @@ The following pin configuration will be used for the final assembly.
 - **Mute:** GPIO 20
 *(One pin of each switch to the listed GPIO, and the other pin common to GND)*
 
-## 📂 Project Files
+##  Project Files
 - `/cad`: Includes `.step` and `.f3z` files for the 6-button enclosure.
 - `/firmware`: Project source code (work in progress).
 - `bom.csv`: Detailed parts list.
