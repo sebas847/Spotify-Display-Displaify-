@@ -15,23 +15,8 @@ A custom IoT desktop device powered by an ESP32-C3 to control and display Spotif
 | Outemu Mechanical Switches | 6 Tactile input controls | [Aliexpress](https://es.aliexpress.com/item/1005006396423418.html) |
 | 24 AWG Silicone Wire | Internal connections | [Aliexpress](https://es.aliexpress.com/item/1005009017260144.html) |
 ##  Wiring Diagram & Pinout
-The following pin configuration will be used for the final assembly.
-### Screen (ST7735 SPI)
-- **VCC:** 3.3V
-- **GND:** GND
-- **SDA/MOSI:** GPIO 10
-- **SCK/SCL:** GPIO 8
-- **RES:** GPIO 3
-- **D/C:** GPIO 2
-- **CS:** GPIO 7
-### Buttons (Mechanical Switches)
-- **Play/Pause:** GPIO 0
-- **Next Track:** GPIO 1
-- **Previous:** GPIO 4
-- **Volume Up:** GPIO 5
-- **Volume Down:** GPIO 6
-- **Mute:** GPIO 20
-*(One pin of each switch to the listed GPIO, and the other pin common to GND)*
+<img width="1256" height="598" alt="image" src="https://github.com/user-attachments/assets/5bfd940a-9d3c-4e73-8da0-73170a13db9c" />
+
 
 ##  Project Files
 - `Displaify.step.zip`: Includes `.step` file for the 6-button enclosure.
