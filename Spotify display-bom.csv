@@ -3,3 +3,4 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "Outemu Mechanical Switches (10 PCS Pack)","Mechanical tactile switches for music controls (Play/Pause, Next, Previous). Chosen for their durability and standard plate-mount compatibility.",1,4.00,"https://es.aliexpress.com/item/1005006396423418.html","Aliexpress"
 "1.8 inch TFT LCD Display Module ST7735 SPI","To display the song title, artist name, and connection status in real-time.",1,6.00,"https://es.aliexpress.com/item/1005010626780549.html","Aliexpress"
 "ESP32-C3 SuperMini Development Board","Main microcontroller with built-in Wi-Fi used to fetch real-time music data from the Spotify API and control the TFT display.",1,1.60,"https://es.aliexpress.com/item/1005007446721319.html","Aliexpress"
+"3D printing","Enclosure printing."https://github.com/sebas847/Spotify-Display-Displaify-/blob/c14d1ff1733690af64ae968e98d713409f3d9770/Displaify_.stl","Self printed"
