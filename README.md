@@ -2,12 +2,6 @@
 
 A custom IoT desktop device powered by an ESP32-C3 to control and display Spotify metadata. This project features a 1.8" TFT screen and 6 mechanical switches for tactile control, housed in a custom-designed 3D printed enclosure.
 <img width="907" height="591" alt="image" src="https://github.com/user-attachments/assets/1dad26de-c7b0-4191-8f23-197e1dfa0816" />
-
-##  Features
-- **Real-time Display:** Shows song title and artist.
-- **6 Tactile Controls:** Play/Pause, Next Track, Previous Track, Volume Up, Volume Down, and Mute (Unlike the standard 3-button design).
-- **Custom Enclosure:** Ergonomic design for desk use with an updated layout for 6 switches.
-- **IoT Connection:** Connects via WiFi to the Spotify API.
 ##  Components & Bill of Materials (BOM)
 | Component | Purpose | Link |
 | --- | --- | --- |
